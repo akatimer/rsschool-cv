@@ -6,8 +6,6 @@ Date of birth: 27.02.1988
 
 Location: Kharkiv
 
-Relocation: yes
-
 Email: akatimer@gmail.com
 
 Telegram: @akatimer
